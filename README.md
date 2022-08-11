@@ -6,4 +6,5 @@ Problem #1:
   3. Attempt to push userIcon to right.
   4. Expected Resut: https://pasteboard.co/eSJMI5XPbiBp.png
   5. Given Result: https://pasteboard.co/77KyeQc0iemZ.png
-  6. help me!! push that to the right
+  6. help me!! push that icon to the right
+  7. code is based in react Native
